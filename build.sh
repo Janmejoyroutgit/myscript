@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install samba
+yum install samba -y
